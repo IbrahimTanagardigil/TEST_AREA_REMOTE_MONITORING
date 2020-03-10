@@ -1,4 +1,5 @@
 TEST_AREA_REMOTE_MONITORING
+
 Bu proje:
 1920x1080 bir ekrana 15 adet zone ( text, alfanumerik, gauge1 tiplerinde veri gostergeleri ) oluşturan bir TCP SERVER dan ve buna TCP den data gonderen client tan oluşmaktadır.
 
@@ -7,3 +8,9 @@ Bir olcum sisteminin verilerinin uzak bir Full HD monitorde farkli tipteki ( tex
 
 Gelistirme ortami:
 Ubuntu 16.04 LTS, Qt 5.12.1
+
+
+Ayrıntılar için :
+https://github.com/IbrahimTanagardigil/TEST_AREA_REMOTE_MONITORING/blob/master/TEST_AREA_REMOTE_MONITORING/README.md
+
+
